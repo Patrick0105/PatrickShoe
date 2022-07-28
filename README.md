@@ -21,13 +21,13 @@
 
 <br />
 
-看完後覺得有收穫，可以給我幫我點個⭐**星號**，謝謝你的支持
+看完後覺得有收穫，可以給點個 ⭐**星號** ，謝謝你的支持
 
 ## 使用服務
 <img src="https://github.com/Patrick0105/PatrickShoe/blob/main/QR-Code.png" alt="QR-Code" width="auto" height="128">
 
 掃描上面這個 QR-Code 加入好友
-或是搜尋Line ID：@095hptse</br>
+或是搜尋 Line ID：@095hptse</br>
 也可以點擊加入網址：[加入好友](https://lin.ee/xGC9kTz)
 
 加入好友後
