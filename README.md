@@ -71,6 +71,8 @@
 * Flask
 * Certifi
 * Dnspython
+* Heroku
+* Github actions
 
 ## 設計流程
 <p align="center">
