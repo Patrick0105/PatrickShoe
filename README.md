@@ -86,6 +86,8 @@
 如果看完有任何不清楚的地方，或是程式錯誤回報，歡迎點擊 Line 官方帳號的**聯絡我們**像我們聯絡
 也可以使用 [Github討論區](https://github.com/Patrick0105/PatrickShoe/issues) 哦！
 
+## 特別感謝
+感謝 <a href="https://github.com/maso0310">@maso0310</a> 技術支援
 
 ## License
 
