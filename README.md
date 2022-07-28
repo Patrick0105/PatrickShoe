@@ -83,8 +83,7 @@
 
 ## 討論
 
-如果看完有任何不清楚的地方，或是程式錯誤回報，歡迎點擊 Line 官方帳號的 **聯絡我們** 向我們聯絡<br/>
-也可以使用 [Github Issue](https://github.com/Patrick0105/PatrickShoe/issues) 哦！<br/><br/>
+如果看完有任何不清楚的地方，或是程式錯誤回報，歡迎點擊 Line 官方帳號的 **聯絡我們** 向我們聯絡，也可以使用 [Github Issue](https://github.com/Patrick0105/PatrickShoe/issues) 哦！<br/><br/>
 買鞋愉快～👍<br/>
 謝謝
 ## 特別感謝
