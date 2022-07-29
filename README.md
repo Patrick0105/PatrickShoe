@@ -1,5 +1,5 @@
 <figcaption>Developed by <a href="https://github.com/Patrick0105">@Patrick Fang</a></figcaption>
-<br/>--開發流程分享
+<br/>--設計流程分享
 <br />
 <br />
 <p align="center">
@@ -74,7 +74,7 @@
 * Heroku
 * Github actions
 
-## 設計流程
+## 思維導圖
 <p align="center">
   <img src="https://github.com/Patrick0105/PatrickShoe/blob/main/Drawing.png?raw=true">
 </p>
