@@ -65,7 +65,7 @@
 * Re
 * Requests
 * Os
-
+* Threading
 * BeautifulSoup4
 * Line-Bot-Sdk
 * Line-Notify Service
