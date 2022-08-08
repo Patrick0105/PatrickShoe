@@ -8,7 +8,9 @@
   </a>
   
   <h3 align="center">『 派大鞋 PatrickShoe 』</h3>
-
+  <div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=patrick0105.PatrickShoe&right_color=%23EBEC9B&left_color=%239BECC5">
+  </div>
   <p align="center">
     一款自動監控台灣地區 NIKE Snkrs 球鞋上架，並使用 Line 推送通知的服務
     <br />
